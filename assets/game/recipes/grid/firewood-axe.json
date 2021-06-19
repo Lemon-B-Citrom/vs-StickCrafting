@@ -1,0 +1,11 @@
+{
+        ingredientPattern: "FT",
+        ingredients: {
+            "T": { type: "item", code: "axe-*", isTool: true  },
+            "F": { type: "item", code: "firewood" }
+        },
+        width: 1,
+        height: 2,
+        shapeless: true,
+        output: { type: "item", code: "stick", quantity: 2  }
+}
